@@ -4,65 +4,11 @@
   
     
     <entry>
-      <title>测试4</title>
-      <link href="/2024/12/19/2024-12-19%20text4/"/>
-      <url>/2024/12/19/2024-12-19%20text4/</url>
+      <title>关于这个博客</title>
+      <link href="/2024/12/19/2024-12-19%20%E5%85%B3%E4%BA%8E%E8%BF%99%E4%B8%AA%E5%8D%9A%E5%AE%A2/"/>
+      <url>/2024/12/19/2024-12-19%20%E5%85%B3%E4%BA%8E%E8%BF%99%E4%B8%AA%E5%8D%9A%E5%AE%A2/</url>
       
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      <categories>
-          
-          <category> 随笔 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> c++ </tag>
-            
-            <tag> SDL </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>测试3</title>
-      <link href="/2024/12/19/2024-12-19%20text3/"/>
-      <url>/2024/12/19/2024-12-19%20text3/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      <categories>
-          
-          <category> 算法 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> c++ </tag>
-            
-            <tag> SDL </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>测试2</title>
-      <link href="/2024/12/19/2024-12-19%20text2/"/>
-      <url>/2024/12/19/2024-12-19%20text2/</url>
-      
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<h1 id="关于这个博客"><a href="#关于这个博客" class="headerlink" title="关于这个博客"></a>关于这个博客</h1><p>前几天刚好要交网页设计期末作业，突发奇想就想弄个博客来<del>督促</del>记录自己的学习记录。</p><p><em>大一实在不争气，但现在终于下定决心，要更加努力地投入到学习中。这个博客便可以派上用场了。</em></p><p>很高兴能在这里与大家相遇，希望你能通过这个博客，来见证我的成长与进步。</p><p>就是这样了，have fun~</p><img src="/img/coding.jpg" width=50%>]]></content>
       
       
       <categories>
@@ -74,36 +20,7 @@
       
         <tags>
             
-            <tag> c++ </tag>
-            
-            <tag> SDL </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>测试1</title>
-      <link href="/2024/12/19/2024-12-19%20text1/"/>
-      <url>/2024/12/19/2024-12-19%20text1/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      <categories>
-          
-          <category> 项目 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> c++ </tag>
-            
-            <tag> SDL </tag>
+            <tag> 随笔 </tag>
             
         </tags>
       
